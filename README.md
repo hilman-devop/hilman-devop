@@ -20,8 +20,8 @@ Pernah juara kompetisi IoT dan Sedang cari peluang pertama sebagai developer.
 - Automation workflow dengan n8n
 
 ### 📊 GitHub Stats
-![Hilman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilman-devop&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilman-devop&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![Hilman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilman-devop&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilman-devop&layout=compact&theme=radical&hide_border=true&langs_count=10&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilman-devop&theme=radical&hide_border=true)
 
 ### 📫 Hubungi saya
