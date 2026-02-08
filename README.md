@@ -19,16 +19,13 @@ Pernah juara kompetisi IoT dan Sedang cari peluang pertama sebagai developer.
 - Proyek AR Web dengan AR.js
 - Automation workflow dengan n8n
 
-### 🚀 Featured Projects
-(langsung muncul otomatis kalau kamu pin repo nanti)
-
 ### 📊 GitHub Stats
-![Hilman's Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=radical)
+![Hilman's Stats](https://github-readme-stats.vercel.app/api?username=hilman-devop&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilman-devop&layout=compact&theme=radical)
 
 ### 📫 Hubungi saya
-- Email: [emailmu@gmail.com]
-- LinkedIn: [link linkedin kalau ada]
+- Email: [nama@gmail.com]
+- Instagram: [nama instagram]
 - WhatsApp: [nomor WA]
 
 Thanks for visiting! 🚀
