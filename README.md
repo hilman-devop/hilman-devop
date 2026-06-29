@@ -16,15 +16,13 @@ Pernah juara kompetisi IoT dan Sedang cari peluang pertama sebagai developer.
 
 ### 🏆 Achievement
 - Juara Kompetisi IoT
-- Proyek AR Web dengan AR.js
+- Proyek AR dan VR Web
 - Udah itu aja
 
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilman-devop&theme=radical&hide_border=true)
 
 ### 📫 Hubungi saya
-- Email: [nama@gmail.com]
-- Instagram: [nama instagram]
-- WhatsApp: [nomor WA]
+- Email: hilman.project.dev@gmail.com
 
 Thanks for visiting! 🚀
