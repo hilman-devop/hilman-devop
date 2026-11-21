@@ -34,9 +34,9 @@ Semua repo di bawah ini publik dan bisa langsung dilihat isinya:
 | [**CocoaIntelliGuard**](https://github.com/hilman-devop/cocoaintelliguard) | Deteksi penyakit daun kakao dengan AI di perangkat edge | Python, Edge AI |
 | [**POS Java Turtle**](https://github.com/hilman-devop/pos-java-turtle) | Point of sale restoran: struk thermal, QRIS dinamis, stok real-time | PHP, MySQL, Google Apps Script |
 | [**SISPRALA**](https://github.com/hilman-devop/sisprala) | Peminjaman sarana prasarana dengan QR per barang & audit keamanan tertulis | Node.js, Express, SQLite |
-| [**TaskFlow**](https://github.com/hilman-devop/Task-Management) | Aplikasi manajemen tugas full-stack | Laravel, React, Vite |
-| [**AR Biologi SMA**](https://github.com/hilman-devop/Web-AR) | Augmented reality untuk pembelajaran biologi kelas XI | WebAR, Three.js |
-| [**Laza Marketplace**](https://github.com/hilman-devop/Laza-Flutter) | Marketplace mobile cross-platform | Flutter, Dart |
+| [**TaskFlow**](https://github.com/hilman-devop/task-management) | Aplikasi manajemen tugas full-stack | Laravel, React, Vite |
+| [**AR Biologi SMA**](https://github.com/hilman-devop/web-ar) | Augmented reality untuk pembelajaran biologi kelas XI | WebAR, Three.js |
+| [**Laza Marketplace**](https://github.com/hilman-devop/laza-flutter) | Marketplace mobile cross-platform | Flutter, Dart |
 | [**Sentinel**](https://github.com/hilman-devop/sentinel) | Hardening & monitor keamanan Windows | PowerShell |
 | [**Skill Lab**](https://github.com/hilman-devop/skill-lab-benchmark) | Benchmark dampak skill AI: mengukur apakah skill benar-benar memperbaiki output model | Node.js, LLM Judge |
 
