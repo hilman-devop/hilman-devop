@@ -25,20 +25,44 @@ Saya membangun produk **web, mobile, dan perangkat IoT dari nol** — dari antar
 
 ## Proyek Unggulan
 
-Semua repo di bawah ini publik dan bisa langsung dilihat isinya:
+Jelajahi project berdasarkan bidang. Klik screenshot untuk membuka repository; preview berasal dari aplikasi yang dijalankan atau gambar yang sudah ada di repo.
 
-| 🚀 Proyek | Ringkasan | Teknologi |
+### Web Applications
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/sisprala"><img src="https://raw.githubusercontent.com/hilman-devop/sisprala/main/screenshots/portfolio-preview.jpg" width="440" alt="Preview landing page Pinzup, sistem inventaris dan peminjaman"></a><br><strong><a href="https://github.com/hilman-devop/sisprala">SISPRALA / Pinzup</a></strong><br>Sistem inventaris dan peminjaman barang.</td>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/task-management"><img src="https://raw.githubusercontent.com/hilman-devop/task-management/main/img/img2.png" width="440" alt="Preview board kanban TaskFlow dengan data demo"></a><br><strong><a href="https://github.com/hilman-devop/task-management">TaskFlow</a></strong><br>Manajemen tugas full-stack dengan board kanban.</td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/buku-induk-siswa"><img src="https://raw.githubusercontent.com/hilman-devop/buku-induk-siswa/main/screenshots/portfolio-preview.jpg" width="440" alt="Dashboard Buku Induk Siswa dengan database kosong"></a><br><strong><a href="https://github.com/hilman-devop/buku-induk-siswa">Buku Induk Siswa</a></strong><br>Dashboard lokal untuk data dan nilai siswa; screenshot memakai database kosong.</td>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/pos-java-turtle"><img src="https://raw.githubusercontent.com/hilman-devop/pos-java-turtle/main/assets/img/pic/login.png" width="440" alt="Halaman login POS Java Turtle"></a><br><strong><a href="https://github.com/hilman-devop/pos-java-turtle">POS Java Turtle</a></strong><br>Point of sale untuk restoran dan kafe.</td>
+</tr>
+</table>
+
+### AR & Virtual Reality
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/web-ar"><img src="https://raw.githubusercontent.com/hilman-devop/web-ar/main/screenshots/portfolio-preview.jpg" width="440" alt="Menu aplikasi pembelajaran Web AR Biologi SMA"></a><br><strong><a href="https://github.com/hilman-devop/web-ar">AR Biologi SMA</a></strong><br>Media pembelajaran Biologi dengan WebAR.</td>
+<td width="50%" align="center"><a href="https://github.com/hilman-devop/vr-therapy"><img src="https://raw.githubusercontent.com/hilman-devop/vr-therapy/main/screenshots/portfolio-preview.jpg" width="440" alt="Lobby konfigurasi aplikasi TranquilVR"></a><br><strong><a href="https://github.com/hilman-devop/vr-therapy">TranquilVR</a></strong><br>Prototipe ruang virtual interaktif; bukan alat terapi atau diagnosis klinis.</td>
+</tr>
+</table>
+
+### Mobile Development
+
+<p align="center"><a href="https://github.com/hilman-devop/laza-flutter"><img src="https://raw.githubusercontent.com/hilman-devop/laza-flutter/main/screenshots/portfolio-preview.jpg" width="320" alt="Tampilan Home aplikasi marketplace Laza"></a><br><strong><a href="https://github.com/hilman-devop/laza-flutter">Laza Marketplace</a></strong><br>Eksplorasi UI marketplace mobile dengan Flutter.</p>
+
+### AI, Automation & Security
+
+| Project | Ringkasan | Teknologi |
 |:--|:--|:--|
-| [**Yui — Asisten Suara AI**](https://github.com/hilman-devop/yui-assistant) | Asisten berbahasa Indonesia berwujud karakter Live2D: perintah suara → LLM → jawaban suara, lengkap dengan kontrol PC & balasan WhatsApp | Python, FastAPI, PixiJS, Live2D |
-| [**PFA-VR**](https://github.com/hilman-devop/pfa-vr) | Aplikasi terapi WebXR 7 sesi untuk korban bencana — berjalan offline penuh di Meta Quest | A-Frame, PWA, WebSocket |
-| [**CocoaIntelliGuard**](https://github.com/hilman-devop/cocoaintelliguard) | Deteksi penyakit daun kakao dengan AI di perangkat edge | Python, Edge AI |
-| [**POS Java Turtle**](https://github.com/hilman-devop/pos-java-turtle) | Point of sale restoran: struk thermal, QRIS dinamis, stok real-time | PHP, MySQL, Google Apps Script |
-| [**SISPRALA**](https://github.com/hilman-devop/sisprala) | Peminjaman sarana prasarana dengan QR per barang & audit keamanan tertulis | Node.js, Express, SQLite |
-| [**TaskFlow**](https://github.com/hilman-devop/task-management) | Aplikasi manajemen tugas full-stack | Laravel, React, Vite |
-| [**AR Biologi SMA**](https://github.com/hilman-devop/web-ar) | Augmented reality untuk pembelajaran biologi kelas XI | WebAR, Three.js |
-| [**Laza Marketplace**](https://github.com/hilman-devop/laza-flutter) | Marketplace mobile cross-platform | Flutter, Dart |
-| [**Sentinel**](https://github.com/hilman-devop/sentinel) | Hardening & monitor keamanan Windows | PowerShell |
-| [**Skill Lab**](https://github.com/hilman-devop/skill-lab-benchmark) | Benchmark dampak skill AI: mengukur apakah skill benar-benar memperbaiki output model | Node.js, LLM Judge |
+| [**Yui — Asisten Suara AI**](https://github.com/hilman-devop/yui-assistant) | Asisten suara berbahasa Indonesia dengan kontrol PC dan bridge WhatsApp | Python, FastAPI, PixiJS |
+| [**CocoaIntelliGuard**](https://github.com/hilman-devop/cocoaintelliguard) | Pipeline computer vision untuk analisis penyakit daun kakao | Python, Edge AI |
+| [**Sentinel**](https://github.com/hilman-devop/sentinel) | Toolkit hardening Windows dan pemantauan perubahan sistem | PowerShell |
+| [**Skill Lab**](https://github.com/hilman-devop/skill-lab-benchmark) | Benchmark untuk membandingkan hasil penggunaan skill AI | Node.js, LLM Judge |
+
+[📚 Lihat semua repository publik](https://github.com/hilman-devop?tab=repositories)
 
 ## Teknologi
 
