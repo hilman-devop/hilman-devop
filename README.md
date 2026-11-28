@@ -1,7 +1,7 @@
 # Halo, saya Hilman 👋
 
 <p align="center">
-  <strong>Full-stack Developer · IoT Engineer · AR/VR Creator</strong><br>
+  <strong>Full-Stack Developer · Web &amp; IoT · AI Automation</strong><br>
   Teknik Informatika — Jember, Jawa Timur, Indonesia 🇮🇩
 </p>
 
@@ -17,7 +17,7 @@
 
 ## Tentang saya
 
-Saya membangun produk **web, mobile, dan perangkat IoT dari nol** — dari antarmuka, logika backend, sampai hardware-nya. Fokus saya sederhana: **kode yang rapi, aman, dan teruji**.
+Saya membangun produk **web dan IoT** dari antarmuka hingga backend, firmware, integrasi API, dan pengujian. AI, otomasi, mobile, dan AR/VR menjadi area pendukung di proyek-proyek pilihan saya. Fokus saya: **kode yang rapi, aman, dan teruji**.
 
 - 🔭 Sedang fokus: asisten AI berbasis suara, aplikasi WebXR, dan sistem IoT terintegrasi
 - 🌱 Sedang memperdalam: orkestrasi LLM & computer vision di perangkat edge
@@ -51,6 +51,8 @@ Jelajahi project berdasarkan bidang. Klik screenshot untuk membuka repository; p
 </table>
 
 ### Mobile Development
+
+*Proyek mobile sebagai area pendukung; fokus utama saya tetap web development dan IoT.*
 
 <p align="center"><a href="https://github.com/hilman-devop/laza-flutter"><img src="https://raw.githubusercontent.com/hilman-devop/laza-flutter/main/screenshots/portfolio-preview.jpg" width="320" alt="Tampilan Home aplikasi marketplace Laza"></a><br><strong><a href="https://github.com/hilman-devop/laza-flutter">Laza Marketplace</a></strong><br>Eksplorasi UI marketplace mobile dengan Flutter.</p>
 
@@ -111,8 +113,8 @@ Jelajahi project berdasarkan bidang. Klik screenshot untuk membuka repository; p
 - 🏆 **Juara 3 & Juara Favorit 2** — IoT Smart Solution Innovation Challenge 2025, Malang
 - 🎓 **Juara 2 Esai** + **Honorable Mention** — Ahmad Dahlan International Seminar #3 (2025), “Future Education”
 - 🧠 **Best Critical Thinker (Rank 2)** — FGD Universitas Muhammadiyah Jember
-- 📦 **22 repository publik** — web, mobile, IoT, keamanan, hingga AI
-- 🛠️ **50+ proyek** pernah dikerjakan, dari landing page sampai sistem terdistribusi
+- 📦 **22 repository publik** — berfokus pada web dan IoT, dengan proyek AI, otomasi, mobile, dan AR/VR
+- 🧪 Contoh bukti pengujian: **21 test end-to-end SISPRALA**
 - 🧪 Menulis kode dengan **test** — contoh: 21 test end-to-end untuk SISPRALA, 11/11 test hijau untuk Yui
 
 ## Hubungi Saya
